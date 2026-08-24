@@ -1,0 +1,7 @@
+elevation-images/
+module-images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
